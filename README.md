@@ -1,6 +1,7 @@
 # mock_database
 
-Simple datase project utulizing EntityFramework and .NET utilities to communicate with an SQL databse programically using C#. This project merely demonstrates the application of these methods and has very limited uses.
+Simple datase project utulizing EntityFramework and .NET utilities to communicate with an SQL databse programically using C#. This project demonstrates core database handling concepts and is intended solely for educational purposes, with limited practical use.
+Additional details, including class diagrams and other visuals, are available in the accompanying PDF documentation provided as part of the course assignment.
 
 ## Demo Overview
 
